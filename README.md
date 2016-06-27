@@ -6,4 +6,4 @@ O arquivo alunos.csv deve estar no mesmo diretório que o UFFMail.jar, salvo no 
 
 Sources na pasta src/uffmail, main encontra-se em UFFMail.java
 
-O arquivo UFFMail.zip é a exportação do projeto pelo NetBeans
+O arquivo UFFMail_NB_Project.zip é a exportação do projeto pelo NetBeans
