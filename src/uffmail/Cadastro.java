@@ -35,7 +35,7 @@ public class Cadastro {
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("Arquivo alunos.csv não encontrado. Insira-o na mesma pasta do  .jar");
+            System.out.println("Arquivo alunos.csv não encontrado. Insira-o na mesma pasta do UFFMail.jar");
             System.exit(1);
         } catch (IOException e) {
             System.out.println("Não foi possível ler o arquivo");
